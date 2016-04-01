@@ -1,2 +1,2 @@
-# CAWaterTest.github.io
+# CaliforniaWaterDataDive2016.github.io
 Organization Page
