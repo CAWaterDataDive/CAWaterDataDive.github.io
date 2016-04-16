@@ -1,2 +1,2 @@
-# CaliforniaWaterDataDive2016.github.io
+# CAWaterDataDive.github.io
 Organization Page
